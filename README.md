@@ -9,5 +9,3 @@ Special thanks to:
 - Pablo Albini
 
 For their original work and contributions to the DMA_LAB2 repository that served as the foundation for this project. 
-
-Ahora si, Adrian
