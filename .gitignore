@@ -1,6 +1,11 @@
  # CSV files
 *.csv
 
+# Ficheros
+*/work
+*/__pycache__
+modelo/scripts/__pycache__
+
 # JSON files
 *.json
 
