@@ -1,5 +1,4 @@
 # Ficheros
-*/work
 */__pycache__
 modelo/scripts/__pycache__
 
@@ -7,9 +6,3 @@ modelo/scripts/__pycache__
 *.json
 
 *.DS_Store
-
-*.sqlite3
-
-*.joblib
-
-/work/optuna_artifacts/
