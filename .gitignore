@@ -1,5 +1,4 @@
 # Ficheros
-*/work
 */__pycache__
 modelo/scripts/__pycache__
 
@@ -8,12 +7,4 @@ modelo/scripts/__pycache__
 
 *.DS_Store
 
-*.sqlite3
 
-*.joblib
-
-/work/optuna_artifacts/
-# Permitir ciertos archivos en optuna_artifacts
-!/work/optuna_artifacts/*.pkl
-!/work/optuna_artifacts/*.db
-!/work/optuna_artifacts/*.sqlite3
